@@ -1,5 +1,5 @@
 # ESLint教學
-> ESLint支援ES6與JSX語法，具高度設定彈性與擴充性的檢查語法工具，可提供程式開發者在語法上的錯誤警告，這邊我所使用的是Airbnb的規範，簡單來說ESLint就是可以規範整個開發團隊中的coding style
+> ESLint支援ES6與JSX語法，具高度設定彈性與擴充性的檢查語法工具，可提供程式開發者在語法上的錯誤警告，這邊我所使用的是Airbnb的規範，簡單來說ESLint就是可以規範整個開發團隊中的coding style
 
 # Usage
 1. clone the repository
@@ -17,7 +17,7 @@ $ cd ESLint_tutorial
 ```
 $ npm init -y
 ```
-這邊會產出一個package.json,這個檔案專門管理node的各種套件
+這邊會產出一個package.json,這個檔案專門管理node的各種套件
 
 2. 安裝eslint與babel-eslint 
 ```
